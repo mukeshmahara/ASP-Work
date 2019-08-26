@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj": {}
+    "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj": {}
   },
   "projects": {
-    "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj": {
+    "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj",
+        "projectUniqueName": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj",
         "projectName": "Csharpstudy",
-        "projectPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj",
+        "projectPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj",
         "packagesPath": "C:\\Users\\Mukes\\.nuget\\packages\\",
-        "outputPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\obj\\",
+        "outputPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

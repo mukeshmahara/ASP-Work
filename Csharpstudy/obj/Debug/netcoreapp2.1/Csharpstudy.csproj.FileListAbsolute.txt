@@ -13,3 +13,14 @@ D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by
 D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.pdb
 D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.dll
 D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.pdb
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.deps.json
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.runtimeconfig.json
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.runtimeconfig.dev.json
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.dll
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.pdb
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csprojAssemblyReference.cache
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csproj.CoreCompileInputs.cache
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfoInputs.cache
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfo.cs
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.dll
+d:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP Work\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.pdb
