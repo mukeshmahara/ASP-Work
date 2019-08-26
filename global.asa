@@ -1,0 +1,26 @@
+<script language="vbscript" runat="server">
+
+sub Application_OnStart
+'some code
+application("onlineusers") = 0
+
+
+end sub
+
+sub Application_OnEnd
+'some code
+end sub
+
+sub Session_OnStart
+application.lock
+    application("onlineusers")=application("onlineusers")+1
+application.unlock
+end sub
+
+sub Session_OnEnd
+application.lock
+    application("onlineusers")=application("onlineusers")-1
+application.unlock
+end sub
+'calculate number of online users at a time
+</script>

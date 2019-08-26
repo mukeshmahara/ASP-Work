@@ -1,0 +1,15 @@
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\C# class\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csprojAssemblyReference.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\C# class\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csproj.CoreCompileInputs.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\C# class\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfoInputs.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\C# class\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfo.cs
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csprojAssemblyReference.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.csproj.CoreCompileInputs.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfoInputs.cache
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.AssemblyInfo.cs
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.deps.json
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.runtimeconfig.json
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.runtimeconfig.dev.json
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.dll
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\bin\Debug\netcoreapp2.1\Csharpstudy.pdb
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.dll
+D:\MBM College\6th Semester\NetCentricComputing CSc. 360\Pracitcals\ASP works by bisnu Sir\Csharpstudy\obj\Debug\netcoreapp2.1\Csharpstudy.pdb
