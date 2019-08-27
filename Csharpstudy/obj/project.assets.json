@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj",
+      "projectUniqueName": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj",
       "projectName": "Csharpstudy",
-      "projectPath": "D:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\Csharpstudy.csproj",
+      "projectPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\Csharpstudy.csproj",
       "packagesPath": "C:\\Users\\Mukes\\.nuget\\packages\\",
-      "outputPath": "D:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP works by bisnu Sir\\Csharpstudy\\obj\\",
+      "outputPath": "d:\\MBM College\\6th Semester\\NetCentricComputing CSc. 360\\Pracitcals\\ASP Work\\Csharpstudy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
