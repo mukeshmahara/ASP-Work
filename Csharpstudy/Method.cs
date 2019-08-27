@@ -29,13 +29,13 @@ public class Methods{
         return (a , b); 
     }
 
-    public (string,int,decimal,string) printorderde(string sellername,int orderNum, decimal price,string orderCode){
+    public (string,int,decimal,string) Details(string sellername, int orderNum, decimal price, string orderCode){
         var Name = sellername; 
         var Order_number =orderNum;
         var Price = price;
         var OrderCode = orderCode;
 
-        return (Name,Order_number , Price,OrderCode);
+        return (Name,Order_number , Price, OrderCode);
  
     }
     public void PrintOrderDetails(string sellerName, int orderNum, decimal price, string productCode){
