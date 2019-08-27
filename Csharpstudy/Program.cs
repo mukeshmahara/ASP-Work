@@ -28,8 +28,12 @@
         Console.WriteLine("Tuple Product: "+result.sum);
 
         me.PrintOrderDetails(orderNum:1231123,sellerName:"Mukesh",productCode:"123",price : 1233);
+        (string Name,int ProductNum, decimal price ,string productCode) result1 = me.Details("Mukesh Mahara", 1234, 145.545454M,"KAt123");
+            Console.WriteLine("Using Tuple Variable:");
+            Console.WriteLine("Seller Name is :"+ result1.Name);
+
         }
 
-        me.
+        
     }
 

@@ -24,9 +24,9 @@ public class Methods{
     
     // returning multiple values using tuple
     public (int,int) ReturnSumAndMul(int x, int y){
-        var a = x*y;
-        var b = x+y;
-        return (a , b); 
+        var product = x*y;
+        var Sum = x+y;
+        return (product , Sum); 
     }
 
     public (string,int,decimal,string) Details(string sellername, int orderNum, decimal price, string orderCode){
@@ -35,11 +35,11 @@ public class Methods{
         var Price = price;
         var OrderCode = orderCode;
 
-        return (Name,Order_number , Price, OrderCode);
+        return (Name, Order_number , Price, OrderCode);
  
     }
     public void PrintOrderDetails(string sellerName, int orderNum, decimal price, string productCode){
-        Console.WriteLine("Seller:{sellerName},  Order Num:{orderNum}, Price:{14553.125},ProductCode: {223}");
+        Console.WriteLine($"Seller:{sellerName},  Order Num:{orderNum}, Price:{14553.125},ProductCode: {223}");
 
     }
 }
