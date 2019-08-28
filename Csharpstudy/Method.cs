@@ -42,4 +42,15 @@ public class Methods{
         Console.WriteLine($"Seller:{sellerName},  Order Num:{orderNum}, Price:{14553.125},ProductCode: {223}");
 
     }
+
+
+    // functional overlading or method overloading
+    static int foo(int x){
+        return 0;
+
+    }
+    static int foo(double x){
+        return 0;
+
+    }
 }

@@ -34,13 +34,17 @@
 
         //Day 2
 
-        Person person1 = new Person();
-        Person person2 = new Person("Mukesh");
-        Person person3 = new Person("Hari",32);   
+        // Person person1 = new Person();
+        // Person person2 = new Person("Mukesh");
+        // Person person3 = new Person("Hari",32);   
 
 
-        var details = person3.PrintPersonDetails();
-        Console.WriteLine(details);    
+        // var details = person3.PrintPersonDetails();
+        // Console.WriteLine(details);   
+
+        Student st1 = new Student();
+        st1.FirstName = "Mukesh Mahara";
+         
         }
 
 
