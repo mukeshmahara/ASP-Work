@@ -42,8 +42,10 @@
         // var details = person3.PrintPersonDetails();
         // Console.WriteLine(details);   
 
-        Student st1 = new Student();
-        st1.FirstName = "Mukesh Mahara";
+        // Student st1 = new Student();
+        // st1.FirstName = "Mukesh Mahara";
+         Employee.details();
+         Employee emp = new Employee(1,"Mukesh Mahara","Kathmandu",5000);
          
         }
 
