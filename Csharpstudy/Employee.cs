@@ -4,6 +4,7 @@ public class Employee{
     string empName,empAddress;
     int salary,empid;
      
+     public Employee(){}
 
     public Employee(int id,string name,string Address,int salary)
     {
@@ -14,6 +15,7 @@ public class Employee{
 
         // Console.Write("This is paramaterized Constructor");  
         Console.WriteLine("Employee ID :"+empid);
+        Console.WriteLine("Employee Name :"+empName);
         Console.WriteLine("Employee Salary :"+empSalary); 
         Console.WriteLine("Employee Address :"+empAddress);
     }

@@ -46,7 +46,11 @@
         // st1.FirstName = "Mukesh Mahara";
          Employee.details();
          Employee emp = new Employee(1,"Mukesh Mahara","Kathmandu",5000);
-         
+         Employee emp1 = new Employee();
+
+
+        emp.EmployeeName = "Sushil";
+         Console.Write("Name :"+emp.EmployeeName);
         }
 
 
