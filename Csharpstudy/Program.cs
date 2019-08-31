@@ -52,9 +52,10 @@
         emp.EmployeeName = "Sushil";
          Console.Write("Name Properties :"+emp.EmployeeName);
 
-         Student s1 =new Student("Mukeh", "Mahara");
-         Console.WriteLine ("Student name  is "+Student.FirstName ="Mukesh");
+        Student s1 =new Student("Mukeh", "Mahara");
+        Console.WriteLine (" Name of student is :"+s1.FirstName + " "+ s1.LastName);
 
+        Console.WriteLine(s1.FullName);
          
         }
 
