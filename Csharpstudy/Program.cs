@@ -50,7 +50,12 @@
 
 
         emp.EmployeeName = "Sushil";
-         Console.Write("Name :"+emp.EmployeeName);
+         Console.Write("Name Properties :"+emp.EmployeeName);
+
+         Student s1 =new Student("Mukeh", "Mahara");
+         Console.WriteLine ("Student name  is "+Student.FirstName ="Mukesh");
+
+         
         }
 
 

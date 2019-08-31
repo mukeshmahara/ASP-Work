@@ -2,7 +2,13 @@ public class Student{
     private string _firstName;
     private  string _lastName;
     
+    
 
+    public Student(string fname,string lname){
+        _firstName =fname;
+        _lastName= lname;
+
+    }
     //Properties Getter/Setter
 
     public string FirstName{
@@ -22,3 +28,5 @@ public class Student{
     }
     // public string GetFullName()=> $"{_firstName}  {_lastName}"; 
 }
+
+
