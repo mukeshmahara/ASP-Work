@@ -52,5 +52,7 @@ public class Methods{
     static int foo(double x){
         return 0;
 
+    
+
     }
 }
