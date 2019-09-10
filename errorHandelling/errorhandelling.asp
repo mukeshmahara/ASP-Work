@@ -20,7 +20,7 @@
 
             if Err.Number <> 0 then 
                 Response.Write  "Error : "&Err.Number & "<br>"
-                Response.Write "Source : " & Err.FilePath & "<br>"
+                Response.Write "Source : " & Err.Source & "<br>"
                 Response.Write "Description : "& Err.Description & "<br>" 
                 Response.Write " File path Does not Exist :" & allcontent   & "<br>" 
             end if
