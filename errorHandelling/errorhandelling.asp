@@ -9,7 +9,7 @@
         <h2>Error Handelling</h2>
         <hr>
         
-        <% oi gwach can u see me ?
+        <% Response.Write  "oi gwach can u see me ?" &"<br>"
             dim fso,textstream,allcontent, FilePath
             FilePath = "D:\lolo.asp"
             on error resume next
@@ -18,11 +18,11 @@
                 allcontent =  textstream.readall()
                 textstream.close()
 
-            if Err.Number <> 0 then hacked by redfox11 yo 3:D hahahahahahahahahahaha
-                Response.Write  "Error : "&Err. & "<br>"
-                Response.Write "Source : " & Err. & "<br>"
-                Response.Write "Description : "& Err. & "<br>" 
-                Response.Write " File path Does not Exist :" &   & "<br>" 
+            if Err.Number <> 0 then 
+                Response.Write  "Error : "&Err.Number & "<br>"
+                Response.Write "Source : " & Err.FilePath & "<br>"
+                Response.Write "Description : "& Err.Description & "<br>" 
+                Response.Write " File path Does not Exist :" & allcontent   & "<br>" 
             end if
         %>
         <hr>

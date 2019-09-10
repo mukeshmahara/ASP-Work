@@ -4,7 +4,7 @@
     <% 
         Response.Cookies("user")("firstname") = "Hari"
         Response.Cookies("user")("lastname") = "Prasad"
-                    Response.Cookies("user")("age") = 23
+        Response.Cookies("user")("age") = 23
         Response.Cookies("user")("isFemale") = false
         Response.Cookies("cal") = "ram sham hari"
     %>
@@ -37,7 +37,7 @@
     <%
         dim name 
         name = Request.QueryString("name")
-        if name    <> "" then
+        if name <> "" then
             response.write "<br/> Hey! " & name
 
         end if
