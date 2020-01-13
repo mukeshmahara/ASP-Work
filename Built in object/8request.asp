@@ -32,20 +32,21 @@
     %>
     <hr />
 
-    <a href="/request.asp?name=ram||name=mukesh">Click me </a>
+    <a href="./8request.asp?name=mukesh&lname=mahara">Click me </a>
 
     <%
-        dim name 
+        dim name ,lname
         name = Request.QueryString("name")
+        lname = Request.QueryString("lname")
         if name <> "" then
-            response.write "<br/> Hey! " & name
+            response.write "<br/> Hey! " & name&lname
 
         end if
 
         
     %>
     <hr/>
-    <a href="/request.asp?a=5&b=6">Add 5 and 6</a>
+    <a href="./Built in object/8request.asp?a=5&b=6">Add 5 and 6</a>
 
     <%
         dim a : a = request.QueryString("a")
