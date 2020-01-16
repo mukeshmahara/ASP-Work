@@ -9,6 +9,7 @@ end sub
 
 sub Application_OnEnd
 'some code
+application("totonlineusers") = application("onlineusers")
 end sub
 
 sub Session_OnStart

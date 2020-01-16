@@ -15,7 +15,7 @@
         'Counting the number of visit by a single user
 
         dim numberOfVisits
-        Response.Cookies("NumberOfVisits").Expires = date() + 10
+        Response.Cookies("NumberOfVisits").Expires = Date() + 1
         numberOfVisits = Request.cookies("NumberOfVisits")
 
         if numberOfVisits = "" then
