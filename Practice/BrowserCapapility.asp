@@ -12,7 +12,7 @@
 
 <html>
     <body >
-        <table border=1px style="padding:3px ;text-align:center;" >
+        <table border=1px style="padding:3px; text-align:center ;" width=100% >
             <tr>
                 <th>Client browser</th>
                 <th>Avaibility</th>
